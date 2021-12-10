@@ -1,10 +1,7 @@
 # InnoSilicon Firmware
 
-#Unlock fixed pools --> https://t.me/cubich
+#Unlock fixed pools --> https://t.me/RamTS007
 
-#Donate firmware --> https://github.com/mekas17/fw/tree/main/ANTMINER
-
-#Поддержать партнерской прошивкой --> https://github.com/mekas17/fw/tree/main/ANTMINER
 
 # Error List
 
